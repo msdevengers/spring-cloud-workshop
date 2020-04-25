@@ -2,7 +2,7 @@
 
 01-hello-controller: Spring-boot hello world application with swagger ui
 
-02-actuator: Spring-boot actuator example with custm health indicator
+02-actuator-sample: Spring-boot actuator example with custm health indicator
 
 ### Hello Controller
 
