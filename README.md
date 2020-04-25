@@ -9,7 +9,9 @@
 $ mvn clean spring-boot:run
 ```
 http://localhost:8080/hello
+
 http://localhost:8080/customer/1
+
 http://localhost:8080/swagger-ui.html
 
 ### Actuator
@@ -17,9 +19,14 @@ http://localhost:8080/swagger-ui.html
 $ mvn clean spring-boot:run
 ```
 http://localhost:8080/hello
+
 http://localhost:8080/customer/1
+
 http://localhost:8080/swagger-ui.html
+
 http://localhost:8081/actuator
+
 http://localhost:8081/actuator/metrics
+
 http://localhost:8081/actuator/health -> for custom health indicator
 
